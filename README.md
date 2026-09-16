@@ -16,7 +16,7 @@ Building scalable, production-grade backends and AI-powered SaaS platforms with 
 
 ## About Me
 
-I'm a **full-stack Python developer** specializing in **Django**, **FastAPI**, and **REST API** development, with hands-on experience integrating **AI/LLM pipelines** (GPT-4o, Gemini 2.5) into production SaaS products. I'm a **Top-Rated Plus Upwork freelancer** with a 100% Job Success Score and 50+ delivered projects, currently working as a backend engineer at **[Echooo.AI](https://github.com/echoooaiglobal)**, an enterprise influencer-marketing platform.
+I'm a **full-stack Python developer** specializing in **Django**, **FastAPI**, and **REST API** development, with hands-on experience integrating **AI/LLM pipelines** (GPT-4o, Claude, Gemini 2.5) into production SaaS products, and using Claude/Claude Code as part of my own AI-assisted engineering workflow. I'm a **Top-Rated Plus Upwork freelancer** with a 100% Job Success Score and 50+ delivered projects, currently working as a backend engineer at **[Echooo.AI](https://github.com/echoooaiglobal)**, an enterprise influencer-marketing platform.
 
 - 🔭 **Currently building:** Backend systems and AI pipelines at Echooo.AI (TikTok/Instagram analytics, sentiment analysis, cost attribution)
 - 🌱 **Currently exploring:** Multi-model AI orchestration and agentic workflows
@@ -38,7 +38,7 @@ I'm a **full-stack Python developer** specializing in **Django**, **FastAPI**, a
 
 **Auth & Security:** JWT (python-jose) · Passlib/Bcrypt · Rate limiting (SlowAPI) · OSINT tooling (holehe, whoisdomain)
 
-**AI / ML:** GPT-4o · Gemini 2.5 · TwelveLabs · LLM pipeline design for social-media analytics
+**AI / ML:** GPT-4o · Claude (Anthropic) · Gemini 2.5 · TwelveLabs · LLM pipeline design for social-media analytics
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -58,6 +58,7 @@ I'm a **full-stack Python developer** specializing in **Django**, **FastAPI**, a
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP"/>
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" alt="Railway"/>
 <img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat&logo=openai&logoColor=white" alt="GPT-4o"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude"/>
 <img src="https://img.shields.io/badge/Gemini_2.5-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/>
 </p>
 
