@@ -8,7 +8,7 @@ Building scalable, production-grade backends and AI-powered SaaS platforms with 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-ahmed-126466233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.upwork.com/freelancers/~012d3e1640d6aee5f1?viewMode=1"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
-<a href="mailto:echooodotai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:ahmednagra9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/ahmednagra/python_portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -22,7 +22,7 @@ I'm a **full-stack Python developer** specializing in **Django**, **FastAPI**, a
 - 🌱 **Currently exploring:** Multi-model AI orchestration and agentic workflows
 - 🏆 **Track record:** Top-Rated Plus on Upwork · 100% Job Success Score · 50+ projects delivered
 - 💼 **Personal portfolio:** [python_portfolio](https://github.com/ahmednagra/python_portfolio)
-- 📩 **Email:** echooodotai@gmail.com
+- 📩 **Email:** ahmednagra9@gmail.com
 
 ## Tech Stack
 
@@ -75,4 +75,4 @@ I'm a **full-stack Python developer** specializing in **Django**, **FastAPI**, a
 
 ## Let's Connect
 
-I'm open to full-stack Python/Django roles, backend engineering contracts, and AI integration projects. Reach out via [LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-126466233/), [Upwork](https://www.upwork.com/freelancers/~012d3e1640d6aee5f1?viewMode=1), or [email](mailto:echooodotai@gmail.com).
+I'm open to full-stack Python/Django roles, backend engineering contracts, and AI integration projects. Reach out via [LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-126466233/), [Upwork](https://www.upwork.com/freelancers/~012d3e1640d6aee5f1?viewMode=1), or [email](mailto:ahmednagra9@gmail.com).
