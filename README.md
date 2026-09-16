@@ -1,61 +1,78 @@
-# Hi, I'm Muhammad Ahmed 👋
+<h1 align="center">Muhammad Ahmed</h1>
+<h3 align="center">Senior Python Backend Engineer · Django & FastAPI Developer · AI SaaS Architect</h3>
 
-**Senior Python Backend Engineer** — architecting AI-powered SaaS backends at scale.
+<p align="center">
+Building scalable, production-grade backends and AI-powered SaaS platforms with Python, Django, FastAPI, and modern LLM pipelines.
+</p>
 
-🔭 Currently building **Echooo.AI** — an enterprise influencer-marketing platform
-🌱 Exploring agentic AI pipelines and multi-model orchestration
-🏆 Top-Rated Plus Upwork Freelancer · 100% JSS · 50+ projects delivered
-💼 Portfolio: **[python_portfolio](https://github.com/ahmednagra/python_portfolio)**
-📩 Reach me at **echooodotai@gmail.com**
-
----
-
-### ⚙️ Tech Stack
-
-**Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Data & Infra**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
-**AI / ML**
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=websocket&logoColor=white)
+<p align="center">
+<a href="https://www.linkedin.com/in/muhammad-ahmed-126466233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.upwork.com/freelancers/~012d3e1640d6aee5f1?viewMode=1"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+<a href="mailto:echooodotai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ahmednagra/python_portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 
-### 📌 Featured Projects
+## About Me
 
-| Project | Description |
-|---|---|
-| [python_portfolio](https://github.com/ahmednagra/python_portfolio) | My personal portfolio — Next.js + TypeScript, live GitHub project feed |
-| [POS](https://github.com/ahmednagra/POS) | Point-of-sale system built with Python/Django |
-| [Pny_Ecommerce_Store](https://github.com/ahmednagra/Pny_Ecommerce_Store) | Full-featured e-commerce storefront |
-| [Hate-Detection-Speech-Python](https://github.com/ahmednagra/Hate-Detection-Speech-Python) | NLP model for hate-speech detection |
-| [recipe-app-api](https://github.com/ahmednagra/recipe-app-api) | REST API for a recipe management app |
+I'm a **full-stack Python developer** specializing in **Django**, **FastAPI**, and **REST API** development, with hands-on experience integrating **AI/LLM pipelines** (GPT-4o, Gemini 2.5) into production SaaS products. I'm a **Top-Rated Plus Upwork freelancer** with a 100% Job Success Score and 50+ delivered projects, currently working as a backend engineer at **[Echooo.AI](https://github.com/echoooaiglobal)**, an enterprise influencer-marketing platform.
 
----
+- 🔭 **Currently building:** Backend systems and AI pipelines at Echooo.AI (TikTok/Instagram analytics, sentiment analysis, cost attribution)
+- 🌱 **Currently exploring:** Multi-model AI orchestration and agentic workflows
+- 🏆 **Track record:** Top-Rated Plus on Upwork · 100% Job Success Score · 50+ projects delivered
+- 💼 **Personal portfolio:** [python_portfolio](https://github.com/ahmednagra/python_portfolio)
+- 📩 **Email:** echooodotai@gmail.com
 
-### 📊 GitHub Stats
+## Tech Stack
 
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmednagra&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednagra&layout=compact&hide_border=true)
+**Languages:** Python · TypeScript · JavaScript · SQL
 
----
+**Backend:** Django · Django REST Framework · FastAPI · Node.js
 
-### 🤝 Let's Connect
+**Frontend:** React · Next.js · Tailwind CSS
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:echooodotai@gmail.com)
+**Data & Infra:** PostgreSQL · MySQL · Redis · Docker · Google Cloud Platform
+
+**AI / ML:** GPT-4o · Gemini 2.5 · TwelveLabs · WebSockets · LLM pipeline design
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white" alt="DRF"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP"/>
+<img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat&logo=openai&logoColor=white" alt="GPT-4o"/>
+<img src="https://img.shields.io/badge/Gemini_2.5-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/>
+</p>
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [python_portfolio](https://github.com/ahmednagra/python_portfolio) | Personal developer portfolio with a live GitHub project feed | Next.js, TypeScript, Tailwind |
+| [POS](https://github.com/ahmednagra/POS) | Point-of-sale system for retail businesses | Python, Django |
+| [Pny_Ecommerce_Store](https://github.com/ahmednagra/Pny_Ecommerce_Store) | Full-featured e-commerce storefront | Django, CSS |
+| [Hate-Detection-Speech-Python](https://github.com/ahmednagra/Hate-Detection-Speech-Python) | NLP model for detecting hate speech in text | Python |
+| [recipe-app-api](https://github.com/ahmednagra/recipe-app-api) | REST API for a recipe management application | Django REST Framework |
+
+## GitHub Stats
+
+<p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmednagra&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Muhammad Ahmed's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednagra&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednagra&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+## Let's Connect
+
+I'm open to full-stack Python/Django roles, backend engineering contracts, and AI integration projects. Reach out via [LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-126466233/), [Upwork](https://www.upwork.com/freelancers/~012d3e1640d6aee5f1?viewMode=1), or [email](mailto:echooodotai@gmail.com).
